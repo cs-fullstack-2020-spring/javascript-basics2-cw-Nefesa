@@ -1,5 +1,6 @@
 # JavaScript-Basics2-CW
-
+#### If you are getting an error and making no progress for the duration of the classwork time PLEASE let us know! Check out my commnent in yout HTML file
+#### Score : 0
 ### Question 1
 Create two variables. One should equal “My name is: “ and the other should equal your name. Print the two variables in one print message.
 
